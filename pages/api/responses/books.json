@@ -1,0 +1,82 @@
+[
+    {
+    "id": 1,
+    "title": "Sonho grande",
+    "author": "Cristiane Correa",
+    "description": "Jorge Paulo Lemann, Marcel Telles e Beto Sicupira ergueram, em pouco mais de quatro décadas, o maior império da história do capitalismo brasileiro e ganharam uma projeção sem precedentes no cenário mundial.",
+    "price": 49.9,
+    "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51yFZNfoBPL._SX342_SY445_QL70_ML2_.jpg"
+        ]
+    },
+    {
+    "id": 2,
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "description": "O livro, baseado em mais de quarenta entrevistas com Jobs ao longo de dois anos - e entrevistas com mais de cem familiares, amigos, colegas, adversários e concorrentes -, narra a vida atribulada do empresário extremamente inventivo e de personalidade forte e polêmica, cuja paixão pela perfeição e cuja energia indomável revolucionaram seis grandes indústrias: a computação pessoal, o cinema de animação, a música, a telefonia celular, a computação em tablet e a edição digital.",
+    "price": 50.06,
+    "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41EvTJePLWL._SX345_BO1,204,203,200_.jpg"
+        ]
+    },
+    {
+    "id": 3,
+    "title": "Abilio",
+    "author": "Cristiane Correa",
+    "description": "Abilio tem uma energia admirável. Está aí com 78 anos e correndo atrás, pensando grande. Eu acho isso um espetáculo.” – Jorge Paulo Lemann O novo livro de Cristiane Correa, autora de Sonho Grande, mais de 300 mil exemplares vendidos. Em 1948, o imigrante Valentim dos Santos Diniz inaugurou uma discreta doceria em São Paulo chamada Pão de Açúcar. Menos de uma década depois, acompanhado de seu primogênito, Abilio, “seu Santos”, como o patriarca era conhecido, abriu o primeiro supermercado da família. Era o passo inicial para a construção de uma companhia que se tornaria a maior varejista do Brasil, com um faturamento anual de 64,4 bilhões de reais em 2013.",
+    "price": 12.63,
+    "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41Z-dyqQhvL._SX347_BO1,204,203,200_.jpg"
+        ]
+    },
+    {
+    "id": 4,
+    "title": "Na raça: como Guilherme Benchimol criou a XP e iniciou a maior revolução do mercado financeiro brasileiro",
+    "author": "Maria Luíza Filgueiras",
+    "description": "Uma das mais bem-sucedidas histórias de empreendedorismo do Brasil começou com uma demissão. Em 2001, Guilherme Benchimol iniciava sua carreira no mercado financeiro carioca quando perdeu o emprego. Envergonhado, decidiu fugir do Rio de Janeiro: pegou o carro e dirigiu quase 20 horas até Porto Alegre, onde, longe dos principais centros financeiros do país, fundou uma modesta empresa de investimentos, a XP, numa salinha de 25 metros quadrados.",
+    "price": 23.90,
+    "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41IfeBO6nML._SX342_SY445_QL70_ML2_.jpg"
+        ]
+    },
+    {
+    "id": 5,
+    "title": "Elon Musk: Como o CEO bilionário da SpaceX e da Tesla está moldando nosso futuro",
+    "author": "teste",
+    "description": "Elon Musk é o empreendedor mais ousado de nosso tempo. Uma mistura de Thomas Edison, Henry Ford, Howard Hughes e Steve Jobs, ele é o homem por trás dos cobiçados esportivos elétricos da Tesla Motors, dos painéis e baterias de energia solar popularizados pela SolarCity e dos foguetes espaciais da SpaceX, construídos do zero com recursos privados e muito mais baratos que qualquer versão já lançada pelas agências governamentais. Entre as próximas metas de Musk está a colonização de Marte.",
+    "price": 32.79,
+    "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51D76SkN0zL._SX347_BO1,204,203,200_.jpg"
+        ]
+    },
+    {
+    "id": 6,
+    "title": "Ponto de inflexão",
+    "author": "Flávio Augusto Da Silva",
+    "description": "Um livro que vai te ajudar a fazer seu próprio caminho. “Vou dispensar o aprofundamento nas equações que geram um Ponto de Inflexão, mas vou apenas me apropriar deste conceito para descrever momentos de nossa vida em que nossas decisões vão determinar para que direção seguiremos e que bônus ou ônus assumiremos. Em outras palavras, tomamos milhares de decisões diariamente. Porém, algumas delas não são decisões corriqueiras. São decisões especiais. Decisões que têm o poder de mudar o rumo do roteiro de nossa vida. A elas eu dou o nome de Ponto de Inflexão. É um conceito da matemática, mas que usaremos para ilustrar perfeitamente os momentos de nossa vida que podem tomar direções opostas a depender de nossas escolhas.",
+    "price": 21.9,
+    "images": [
+            "https://http2.mlstatic.com/D_NQ_NP_942932-MLB40885630509_022020-O.jpg"
+        ]
+    },
+    {
+    "id": 8,
+    "title": "A bola de neve: Warren Buffett e o negócio da vida",
+    "author": "Alice Schroeder",
+    "description": "Este é o livro definitivo sobre a vida de um dos homens mais respeitados e fascinantes do mundo: Warren Buffett. A vida é como uma bola de neve. O importante é encontrar neve úmida e uma colina bem longa. – Warren Buffett",
+    "price": 58.09,
+    "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41L1Kofn-UL._SX346_BO1,204,203,200_.jpg"
+        ]
+    },
+    {
+    "id": 9,
+    "title": "Uma terra prometida",
+    "author": "Barack Obama",
+    "description": "No comovente e aguardado primeiro volume de suas memórias presidenciais, Barack Obama narra, nas próprias palavras, a história de sua odisseia improvável, desde quando era um jovem em busca de sua identidade até se tornar líder da maior democracia do mundo. Com detalhes surpreendentes, ele descreve sua formação política e os momentos marcantes do primeiro mandato de sua presidência histórica ― época de turbulências e transformações drásticas.",
+    "price": 44.9,
+    "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41WmyR2juoL._SX339_BO1,204,203,200_.jpg"
+        ]
+    }
+]
