@@ -6,6 +6,10 @@ export default async (req, res) => {
         origin: '*',
         optionsSuccessStatus: 200,
     });
-    res.statusCode = 200
-    res.json(require('./responses/books.json'))
+    res.statusCode = 200;
+    let books = require('./responses/books.json');
+    if(req.query.title) {
+        books = books.filter(b=> b.title.toLowerCase().includes(req.query.title));
+    }
+    res.json(books);
 }
