@@ -1,3 +1,5 @@
+![Logo](https://pedromontemor.github.io/levarme-client/assets/img/logo-levarme.png)
+
 # Levar.me server
 
 Projeto desenvolvido em [Next.js](https://nextjs.org/).
