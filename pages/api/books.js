@@ -9,7 +9,7 @@ export default async (req, res) => {
     res.statusCode = 200;
     let books = require('./responses/books.json');
     if(req.query.title) {
-        books = books.filter(b=> b.title.toLowerCase().includes(req.query.title));
+        books = books.filter(b=> b.title.toLowerCase().includes(req.query.title.toLowerCase()));
     }
     res.json(books);
 }
