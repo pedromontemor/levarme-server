@@ -2,6 +2,10 @@
 
 Projeto desenvolvido em [Next.js](https://nextjs.org/).
 
+## Instalando a aplicação
+
+Executar comando `npm install` para instalar os pacotes necessários para rodar a aplicação. 
+
 ## Executando a aplicação
 
 Executar comando `npm run dev` para iniciar o servidor de desenvolvimento. 
